@@ -1,2 +1,2 @@
 # AWS-Solutions-Architect-Associate
-AWS Solutions Architect Associate Example Repository
+a codebase of all AWS Solutions Architect Associate examples.
